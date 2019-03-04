@@ -2,6 +2,8 @@
 
 **Important! for some reason, the first few seconds of sound are not played on the bluetooth speaker.**
 
+**Double Important! the wav file MUST be stereo 44,100Hz**
+
 This plays a wav file from an esp32's spiffs storage to a bluetooth speaker. 
 
 It is a modified version of this example: https://github.com/espressif/esp-adf/tree/master/examples/player/pipeline_bt_source
